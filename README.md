@@ -1,7 +1,0 @@
-- 👋 Hi, I’m Kuro Saturn
-- 👀 I’m interested in Ai and minecraft
-- 🌱 I’m currently learning Java, full-Python
-- 💞️ I’m looking to collaborate on ML and Art creators
-- 📫 You can Reach me by discord https://discord.gg/xdbqXZ2E
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I can't drink ice tea or i will be drunk
